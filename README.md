@@ -2,6 +2,7 @@
 这是一个极轻量级的，基于git issue的个人博客模板，非常适合于想在GitHub pages上搭建个人博客的人。
 
 [示例页面](https://imuncle.github.io/gitblog)
+[我的页面](http://gitnote.jiasswee.ml/)
 
 [English](README_en.md)
 
